@@ -1,2 +1,2 @@
 # BlueSpace
-Hi you can visit my website on https://abdu-llaah.github.io/BlueSpace-/
+Hi you can visit my website on https://awesome-visvesvaraya-46016e.netlify.app/
